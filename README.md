@@ -3,8 +3,8 @@
 ### Date created
 The bickeshare python file contains the codes. This is the README file.
 
-### Project Title
-Replace the Project Title
+### Udacity GitHub project
+Title of the project.
 
 ### Description
 Describe what your project is about and what it does
