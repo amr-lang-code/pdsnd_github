@@ -7,10 +7,11 @@ The bickeshare python file contains the codes. This is the README file.
 Title of the project.
 
 ### Description
-Describe what your project is about and what it does
+I have used a CSV file for my GitHub project. I have added a python file as well.
 
 ### Files used
-Include the files used
+students_habits_perfomance.csv
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
